@@ -1,0 +1,14 @@
+---
+Standards:
+  -
+    Title: FooBar Bar a Foo Barring All Foos Footy
+    Description: This is the description. It's a pretty short description and shouldn't wrap very much or at all even.
+    UID: 884d038d-fca6-438e-94a7-ab381a3628c4
+    SuccessCriteria:
+      - Foo
+      - Bar
+    ContentFiles:
+      -
+        Type: Lesson
+        Path: /custom.md
+        UID: 409C1901-7AA2-47E9-9012-A3BB057115C4
